@@ -1,0 +1,9 @@
+{
+	"name": "ADFGitDemofaizan",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3fcf460d-90fb-43dd-a00d-a596e1881dcd",
+		"tenantId": "15ddb750-9222-47cc-a81f-f11e805c081b"
+	}
+}
