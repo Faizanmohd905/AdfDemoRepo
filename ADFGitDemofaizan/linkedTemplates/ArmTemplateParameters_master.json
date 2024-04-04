@@ -5,6 +5,9 @@
 		"factoryName": {
 			"value": "ADFGitDemofaizan"
 		},
+		"LS_blob_connectionString": {
+			"value": ""
+		},
 		"containerUri": {
 			"value": ""
 		},
