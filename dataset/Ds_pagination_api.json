@@ -1,0 +1,12 @@
+{
+	"name": "Ds_pagination_api",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "LS_pagination_api",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "RestResource",
+		"schema": []
+	}
+}
