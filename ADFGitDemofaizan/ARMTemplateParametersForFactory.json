@@ -14,6 +14,9 @@
 		"AzureDataLakeStorage1_properties_typeProperties_url": {
 			"value": "https://stazurepracticeadlsgen2.dfs.core.windows.net/"
 		},
+		"LS_pagination_api_properties_typeProperties_url": {
+			"value": "https://pokeapi.co/api/v2/pokemon?limit=20&offset={offset}"
+		},
 		"RestService1_properties_typeProperties_url": {
 			"value": "https://pokeapi.co/api/v2/pokemon"
 		}
